@@ -16,4 +16,4 @@ def list_compare (list_one, list_two):
     else:
         print "The lists are not the same"
 
-listCompare(list_one, list_two)
+list_compare(list_one, list_two)
